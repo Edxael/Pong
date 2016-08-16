@@ -1,0 +1,54 @@
+
+body {
+    background: #008000;
+    background-image: url("IM/BS1.jpg"); 
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+
+.cent {
+	margin:0px auto;
+	display:block;
+}
+
+.gap-1 {
+	width:100%; 
+	height:20px;
+}
+
+h1{
+	text-align: center;
+	color: red;
+}
+
+h4{
+	text-align: center;
+}
+
+p {
+	background-color: white;
+
+}
+
+div.transbox {
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 1%;
+  /*margin-bottom: 90%;*/
+
+/*	margin:0px auto;
+	display:block;
+*/
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.8;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin-right: 15%;
+  margin-left: 5%;
+  font-weight: bold;
+  color: black;
+}
+
