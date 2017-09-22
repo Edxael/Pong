@@ -1,5 +1,6 @@
 # Pong-Vanilla_JS
 Pong the Game in JavaScript
+
 URL: http://pong.mycode.website/
 
 ![alt tag](https://github.com/Edxael/Pong-Vanilla_JS/blob/master/IM/pong1.png "Pong scree-shoot")
